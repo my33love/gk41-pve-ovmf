@@ -40,3 +40,6 @@ Add the VBT and GOP drivers to the OVMF
 https://projectacrn.github.io/latest/tutorials/gpu-passthru.html
 efirom IgdAssignmentDxe to igd.rom
 https://bugzilla.tianocore.org/attachment.cgi?id=165&action=edit
+dump gop&vbt from bios.bin
+https://www.win-raid.com/t5360f13-EFI-LAN-BIOS-Intel-GopDriver-modules.html
+https://www.win-raid.com/t905f13-Guide-Transfer-of-specific-Intel-OROM-VBIOS-and-GOP-VBT-settings-by-using-Intel-BMP-tool.html
